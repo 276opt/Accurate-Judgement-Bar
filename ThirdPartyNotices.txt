@@ -1,3 +1,9 @@
+
+Third-Party Notices
+
+Component: JALib (Jongyeol Adofai Library)
+Project: https://github.com/Jongye0l/JALib
+
 BSD 3-Clause License
 
 Copyright (c) 2024-2026, Jongyeol
