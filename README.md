@@ -10,6 +10,6 @@ You can still submit clears to TUF as usual while using this mod.
 * Lets you customize certain judgement bar details
 * Displays **Overload HP** (remaining HP before dying from too many extra key presses)
 * Allows **Strict Judgement** to be enabled and displayed in all levels
-* Shows the Miss / Too Early judgement windows after your first mistake
+* Shows the Miss / Too Early judgement windows after your first death
 * Offers an option to use the legacy hit marker appearance
 * Includes a solid white display option that hides the XPerfect marker outline
