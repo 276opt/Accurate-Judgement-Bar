@@ -1,4 +1,4 @@
-# Accurate Judgement Bar
+# <img src="final2.png" alt="Preview" width="150"> Accurate Judgement Bar v2
 
 You can still submit clears to TUF as usual while using this mod.
 
