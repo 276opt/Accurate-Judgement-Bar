@@ -19,3 +19,6 @@ The original judgement bar uses a static image, but actual judgements have **min
 * Shows the Miss / Too Early judgement windows after your first death
 * Offers an option to use the legacy hit marker appearance
 * Includes a solid white display option that hides the XPerfect marker outline
+
+**AI Disclosure:** Parts of this mod were developed with assistance from generative AI.
+**AI 使用说明：** 本模组的部分内容使用生成式 AI 辅助开发。
