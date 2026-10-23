@@ -1,7 +1,7 @@
 # **Archived**
 > In light of [7th Beat Games’ IP Usage Policy](https://7thbeat.notion.site/ip-policy) and for personal reasons, I have decided to archive **Accurate Judgement Bar**. This mod will no longer receive updates, bug fixes, or new releases.
 
-# <img src="final2.png" alt="Preview" width="150"> Accurate Judgement Bar v2
+# <img src="final2.png" alt="Preview" width="150"> Accurate Judgement Bar v2 (Archived)
 
 You can still submit clears to TUF as usual while using this mod.
 
