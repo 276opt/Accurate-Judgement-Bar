@@ -1,12 +1,13 @@
 # **Archived**
 > In light of [7th Beat Games’ IP Usage Policy](https://7thbeat.notion.site/ip-policy) and for personal reasons, I have decided to archive **Accurate Judgement Bar**. This mod will no longer receive updates, bug fixes, or new releases.
 
+*update: [source code of AJB](https://github.com/276opt/AJB-source-code)
+
 # <img src="final2.png" alt="Preview" width="150"> Accurate Judgement Bar v2 (Archived)
 
 You can still submit clears to TUF as usual while using this mod.
 
 <small>v2.0.0 requires game version 3.4.0 or later and Unity Mod Manager (UMM) 0.27.0 or later. No separate installation of XPerfect is required.</small>
-*update: [source code of AJB](https://github.com/276opt/AJB-source-code)
 
 ## Accurate Judgement Bar Rendering
 Adds an **XPerfect window** to the judgement bar and dynamically adjusts each colored band's width based on **BPM, judgement difficulty, and playback speed**.
