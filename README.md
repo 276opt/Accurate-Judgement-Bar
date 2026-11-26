@@ -1,11 +1,7 @@
-# **Archived**
-> In light of [7th Beat Games’ IP Usage Policy](https://7thbeat.notion.site/ip-policy) and for personal reasons, I have decided to archive **Accurate Judgement Bar**. This mod will no longer receive updates, bug fixes, or new releases.
 
-*update: [source code of AJB](https://github.com/276opt/AJB-source-code)
+# <img src="final2.png" alt="Preview" width="150"> Accurate Judgement Bar v2
 
-# <img src="final2.png" alt="Preview" width="150"> Accurate Judgement Bar v2 (Archived)
-
-You can still submit clears to TUF as usual while using this mod.
+(You can still submit clears to TUF as usual while using this mod.)
 
 <small>v2.0.0 requires game version 3.4.0 or later and Unity Mod Manager (UMM) 0.27.0 or later. No separate installation of XPerfect is required.</small>
 
@@ -24,5 +20,5 @@ The original judgement bar uses a static image, but actual judgements have **min
 * Offers an option to use the legacy hit marker appearance
 * Includes a solid white display option that hides the XPerfect marker outline
 
-**AI Disclosure:** Parts of this mod were developed with assistance from generative AI.
-**AI 使用说明：** 本模组的部分内容使用生成式 AI 辅助开发。
+## AI Usage
+This project uses AI-assisted development. For details regarding AI usage and compliance with 7th Beat Games' policies, please refer to [AI Usage & Policy Compliance](AI_USAGE.md).
