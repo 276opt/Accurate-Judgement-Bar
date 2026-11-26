@@ -10,7 +10,7 @@ Adds an **XPerfect window** to the judgement bar and dynamically adjusts each co
 
 The original judgement bar uses a static image, but actual judgements have **minimum timing windows**, measured in milliseconds. As BPM increases, different judgements reach their minimums at different points, changing the proportions between their windows. This feature redraws the bar to accurately reflect the current judgement windows.
 <small>This feature only corrects the display; it does not change the actual judgement or scoring rules.</small>
-![Preview](en.png)
+![Preview](en_new.png)
 ## Other Features
 
 * Lets you customize certain judgement bar details
